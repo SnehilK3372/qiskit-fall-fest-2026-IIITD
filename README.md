@@ -81,7 +81,7 @@ Have quantum or quantum-adjacent work to show? Present a poster at the grand fin
 
 ## Help
 
-- **Discord:** https://discord.gg/zZVgWYVYV (fastest)
+- **Discord:** https://discord.gg/28X9nTNEw (fastest)
 - **Email:** quantica@iiitd.ac.in
 - **Website:** https://qiskit-fall-fest-xi.vercel.app
 
