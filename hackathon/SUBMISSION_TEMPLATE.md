@@ -13,7 +13,7 @@ How to use this template:
 | **Members** | [Full name, email], [Full name, email], … (as registered) |
 | **Track** | [1 · Quantum Chemistry / 2 · Quantum Optimization / 3 · Quantum Simulation] |
 | **Level reached** | [Beginner / Intermediate / Advanced] |
-| **Main notebook** | [`notebook.ipynb`] |
+| **Code files** | [`notebook.ipynb` or `*.py`] |
 | **Slides** | [`slides.pdf`] (up to 8 slides) |
 
 ## Summary
@@ -53,5 +53,4 @@ How to use this template:
 ## Credits
 
 - Track tutorial: adapted from the BasQ Qiskit Fall Fest 2026 tutorials by Benjamin Tirado (text CC BY 4.0, code Apache 2.0).
-- Other code, papers and tutorials used: [list them with links]
 - AI tools used: [tool and what you used it for, or "none"]
