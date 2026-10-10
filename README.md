@@ -4,17 +4,17 @@ Starter material for the **hackathon** and **Qubit Quest** at the Qiskit Fall Fe
 
 This year's Fall Fest theme is *A decade of quantum on the cloud*: ten years since IBM put the first quantum computer online for anyone to use.
 
-## Two ways to take part
+## Three ways to take part
 
-| | Hackathon | Qubit Quest |
-|---|---|---|
-| **Who** | Teams of 2–4 | Solo |
-| **What** | Pick one of three tracks: run its tutorial, then take on a challenge with three levels | Work through IBM's auto-graded Qiskit modules at your own pace |
-| **Reward** | ₹10,000 for each track winner; certificates for every valid submission | Certificate when you reach 70% |
-| **Deadline** | Wed Oct 14, 11:59 pm IST | Thu Oct 15, 11:59 pm IST |
-| **Start here** | [`hackathon/`](hackathon/) | [`qubit-quest/`](qubit-quest/) |
+| | Hackathon | Qubit Quest | Research poster showcase |
+|---|---|---|---|
+| **Who** | Teams of 2–4 | Solo | Any student or researcher |
+| **What** | Pick one of three tracks: run its tutorial, then take on a challenge with three levels | Work through IBM's auto-graded Qiskit modules at your own pace | Present your quantum or quantum-adjacent work at the grand finale |
+| **Reward** | ₹10,000 for each track winner; certificates for every valid submission | Certificate when you reach 70% | ₹5,000 for the best poster, a people's-choice prize, and a certificate for every presenter |
+| **Deadline** | Wed Oct 14, 11:59 pm IST | Thu Oct 15, 11:59 pm IST | Abstract by Mon Oct 12, 11:59 pm IST |
+| **Start here** | [`hackathon/`](hackathon/) | [`qubit-quest/`](qubit-quest/) | [Submit your abstract](https://forms.gle/pAk9BiM4xbz9LnTM8) |
 
-No prior quantum background is needed for either.
+No prior quantum background is needed for the hackathon or Qubit Quest. You can take part in more than one.
 
 ## Key dates
 
@@ -57,12 +57,12 @@ All times are IST.
     └── 3-algorithms/                  algorithms path, 4 modules in order
 ```
 
-## Research poster session
+## Research poster showcase
 
 Have quantum or quantum-adjacent work to show? Present a poster at the grand finale.
 
 - Open to **any student or researcher**.
-- Submit **only an abstract** through the [poster abstract form](TODO_POSTER_ABSTRACT_FORM_URL) by **Mon Oct 12, 11:59 pm IST**. No poster file is needed in advance.
+- Submit **only an abstract** through the [poster abstract form](https://forms.gle/pAk9BiM4xbz9LnTM8) by **Mon Oct 12, 11:59 pm IST**. No poster file is needed in advance.
 - Only the **first 50** submissions are accepted.
 - Poster presenters must attend the finale **in person** at IIIT-Delhi on Fri Oct 16.
 - Prizes: ₹5,000 for the best poster, plus a people's-choice prize.
@@ -72,7 +72,7 @@ Have quantum or quantum-adjacent work to show? Present a poster at the grand fin
 **Prizes** total ₹35,000:
 - ₹10,000 for the winner of each of the three hackathon tracks
 - ₹5,000 for the best poster
-- a people's-choice prize at the poster session
+- a people's-choice prize at the poster showcase
 
 **Certificates** go to:
 - every member of a team with a [valid hackathon submission](hackathon/README.md#what-counts-as-a-valid-submission)
