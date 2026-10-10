@@ -28,7 +28,7 @@ All times are IST.
 | Mon Oct 12, 11:59 pm | Poster abstracts due |
 | Wed Oct 14, 11:59 pm | Hackathon submissions due |
 | Thu Oct 15 | Judging · Qubit Quest closes at 11:59 pm |
-| Fri Oct 16, 2:00–6:00 pm · IIIT-Delhi + online | Grand finale: poster session, team presentations, awards |
+| Fri Oct 16, 2:00–6:00 pm · IIIT-Delhi + online | Grand finale: Poster Showcase, team presentations, awards |
 
 ## Quick start
 
