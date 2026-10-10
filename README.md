@@ -1,6 +1,6 @@
 # Qiskit Fall Fest 2026 · IIIT-Delhi
 
-Starter material for the **hackathon** and **Qubit Quest** at the Qiskit Fall Fest 2026, organised by **Quantica**, **CQT (IIIT-Delhi)** and **IBM Quantum**, October 9–16, 2026.
+Starter material for the **hackathon** and **Qubit Quest** at the Qiskit Fall Fest 2026, organised by **Quantica**, **CQT (IIIT-Delhi)** and **IBM Quantum**, October 9 - 16, 2026.
 
 This year's Fall Fest theme is *A decade of quantum on the cloud*: ten years since IBM put the first quantum computer online for anyone to use.
 
