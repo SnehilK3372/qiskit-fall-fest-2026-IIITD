@@ -6,7 +6,7 @@ Choose the best set of stocks with a quantum optimization algorithm, then scale 
 
 ## Start here
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SnehilK3372/qiskit-fall-fest-2026/blob/main/hackathon/track-2-quantum-optimization/challenge_2_tutorial.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SnehilK3372/qiskit-fall-fest-2026-IIITD/blob/main/hackathon/track-2-quantum-optimization/challenge_2_tutorial.ipynb)
 
 [`challenge_2_tutorial.ipynb`](challenge_2_tutorial.ipynb) is a solved example. It solves Max-Cut on a 5-node graph with QAOA: it builds the cost Hamiltonian, optimizes the circuit's angles, samples the answer and checks it against brute force. It runs in about 10 seconds.
 

@@ -37,34 +37,34 @@ Open a module in Google Colab with its **Colab** link, or open the file from its
 
 | # | Module | Graded exercises | Real-hardware time | Open |
 |---|---|---:|---|---|
-| 0 | [Get Started with Qiskit](0-get-started/get-started-with-qiskit_fallfest.ipynb) | 14 | ~2 s | [Colab](https://colab.research.google.com/github/SnehilK3372/qiskit-fall-fest-2026/blob/main/qubit-quest/0-get-started/get-started-with-qiskit_fallfest.ipynb) |
+| 0 | [Get Started with Qiskit](0-get-started/get-started-with-qiskit_fallfest.ipynb) | 14 | ~2 s | [Colab](https://colab.research.google.com/github/SnehilK3372/qiskit-fall-fest-2026-IIITD/blob/main/qubit-quest/0-get-started/get-started-with-qiskit_fallfest.ipynb) |
 
 ### Physics path · [`1-physics/`](1-physics/)
 
 | # | Module | Graded exercises | Real-hardware time | Open |
 |---|---|---:|---|---|
-| 1 | [Stern-Gerlach](1-physics/1-stern-gerlach-measurements-with-qiskit_fallfest.ipynb) | 11 | ~2 s | [Colab](https://colab.research.google.com/github/SnehilK3372/qiskit-fall-fest-2026/blob/main/qubit-quest/1-physics/1-stern-gerlach-measurements-with-qiskit_fallfest.ipynb) |
-| 2 | [Superposition](1-physics/2-superposition-with-qiskit_fallfest.ipynb) | 8 | ~47 s | [Colab](https://colab.research.google.com/github/SnehilK3372/qiskit-fall-fest-2026/blob/main/qubit-quest/1-physics/2-superposition-with-qiskit_fallfest.ipynb) |
-| 3 | [Uncertainty](1-physics/3-exploring-uncertainty-with-qiskit_fallfest.ipynb) | 11 | ~8 min, **use the simulator** | [Colab](https://colab.research.google.com/github/SnehilK3372/qiskit-fall-fest-2026/blob/main/qubit-quest/1-physics/3-exploring-uncertainty-with-qiskit_fallfest.ipynb) |
-| 4 | [Bell's inequality](1-physics/4-bells-inequality-with-qiskit_fallfest.ipynb) | 18 | ~12 s | [Colab](https://colab.research.google.com/github/SnehilK3372/qiskit-fall-fest-2026/blob/main/qubit-quest/1-physics/4-bells-inequality-with-qiskit_fallfest.ipynb) |
+| 1 | [Stern-Gerlach](1-physics/1-stern-gerlach-measurements-with-qiskit_fallfest.ipynb) | 11 | ~2 s | [Colab](https://colab.research.google.com/github/SnehilK3372/qiskit-fall-fest-2026-IIITD/blob/main/qubit-quest/1-physics/1-stern-gerlach-measurements-with-qiskit_fallfest.ipynb) |
+| 2 | [Superposition](1-physics/2-superposition-with-qiskit_fallfest.ipynb) | 8 | ~47 s | [Colab](https://colab.research.google.com/github/SnehilK3372/qiskit-fall-fest-2026-IIITD/blob/main/qubit-quest/1-physics/2-superposition-with-qiskit_fallfest.ipynb) |
+| 3 | [Uncertainty](1-physics/3-exploring-uncertainty-with-qiskit_fallfest.ipynb) | 11 | ~8 min, **use the simulator** | [Colab](https://colab.research.google.com/github/SnehilK3372/qiskit-fall-fest-2026-IIITD/blob/main/qubit-quest/1-physics/3-exploring-uncertainty-with-qiskit_fallfest.ipynb) |
+| 4 | [Bell's inequality](1-physics/4-bells-inequality-with-qiskit_fallfest.ipynb) | 18 | ~12 s | [Colab](https://colab.research.google.com/github/SnehilK3372/qiskit-fall-fest-2026-IIITD/blob/main/qubit-quest/1-physics/4-bells-inequality-with-qiskit_fallfest.ipynb) |
 
 ### Computer science path · [`2-computer-science/`](2-computer-science/)
 
 | # | Module | Graded exercises | Real-hardware time | Open |
 |---|---|---:|---|---|
-| 1 | [Quantum teleportation](2-computer-science/1-quantum-teleportation_fallfest.ipynb) | 9 | ~14 s | [Colab](https://colab.research.google.com/github/SnehilK3372/qiskit-fall-fest-2026/blob/main/qubit-quest/2-computer-science/1-quantum-teleportation_fallfest.ipynb) |
-| 2 | [Quantum key distribution](2-computer-science/2-quantum-key-distribution_fallfest.ipynb) | 9 | ~5 s | [Colab](https://colab.research.google.com/github/SnehilK3372/qiskit-fall-fest-2026/blob/main/qubit-quest/2-computer-science/2-quantum-key-distribution_fallfest.ipynb) |
-| 3 | [Deutsch-Jozsa](2-computer-science/3-deutsch-jozsa_fallfest.ipynb) | 9 | ~4 s | [Colab](https://colab.research.google.com/github/SnehilK3372/qiskit-fall-fest-2026/blob/main/qubit-quest/2-computer-science/3-deutsch-jozsa_fallfest.ipynb) |
-| 4 | [Grover's algorithm](2-computer-science/4-grovers_fallfest.ipynb) | 8 | ~12 s | [Colab](https://colab.research.google.com/github/SnehilK3372/qiskit-fall-fest-2026/blob/main/qubit-quest/2-computer-science/4-grovers_fallfest.ipynb) |
+| 1 | [Quantum teleportation](2-computer-science/1-quantum-teleportation_fallfest.ipynb) | 9 | ~14 s | [Colab](https://colab.research.google.com/github/SnehilK3372/qiskit-fall-fest-2026-IIITD/blob/main/qubit-quest/2-computer-science/1-quantum-teleportation_fallfest.ipynb) |
+| 2 | [Quantum key distribution](2-computer-science/2-quantum-key-distribution_fallfest.ipynb) | 9 | ~5 s | [Colab](https://colab.research.google.com/github/SnehilK3372/qiskit-fall-fest-2026-IIITD/blob/main/qubit-quest/2-computer-science/2-quantum-key-distribution_fallfest.ipynb) |
+| 3 | [Deutsch-Jozsa](2-computer-science/3-deutsch-jozsa_fallfest.ipynb) | 9 | ~4 s | [Colab](https://colab.research.google.com/github/SnehilK3372/qiskit-fall-fest-2026-IIITD/blob/main/qubit-quest/2-computer-science/3-deutsch-jozsa_fallfest.ipynb) |
+| 4 | [Grover's algorithm](2-computer-science/4-grovers_fallfest.ipynb) | 8 | ~12 s | [Colab](https://colab.research.google.com/github/SnehilK3372/qiskit-fall-fest-2026-IIITD/blob/main/qubit-quest/2-computer-science/4-grovers_fallfest.ipynb) |
 
 ### Algorithms path · [`3-algorithms/`](3-algorithms/)
 
 | # | Module | Graded exercises | Real-hardware time | Open |
 |---|---|---:|---|---|
-| 1 | [Deutsch-Jozsa](3-algorithms/1-deutsch-jozsa_fallfest.ipynb) | 9 | ~4 s | [Colab](https://colab.research.google.com/github/SnehilK3372/qiskit-fall-fest-2026/blob/main/qubit-quest/3-algorithms/1-deutsch-jozsa_fallfest.ipynb) |
-| 2 | [QFT & phase estimation](3-algorithms/2-qft_fallfest.ipynb) | 11 | ~13 s | [Colab](https://colab.research.google.com/github/SnehilK3372/qiskit-fall-fest-2026/blob/main/qubit-quest/3-algorithms/2-qft_fallfest.ipynb) |
-| 3 | [Shor's algorithm](3-algorithms/3-shors-algorithm_fallfest.ipynb) | 10 | ~3 s | [Colab](https://colab.research.google.com/github/SnehilK3372/qiskit-fall-fest-2026/blob/main/qubit-quest/3-algorithms/3-shors-algorithm_fallfest.ipynb) |
-| 4 | [VQE](3-algorithms/4-vqe_fallfest.ipynb) | 12 | ~8 min, **use the simulator** | [Colab](https://colab.research.google.com/github/SnehilK3372/qiskit-fall-fest-2026/blob/main/qubit-quest/3-algorithms/4-vqe_fallfest.ipynb) |
+| 1 | [Deutsch-Jozsa](3-algorithms/1-deutsch-jozsa_fallfest.ipynb) | 9 | ~4 s | [Colab](https://colab.research.google.com/github/SnehilK3372/qiskit-fall-fest-2026-IIITD/blob/main/qubit-quest/3-algorithms/1-deutsch-jozsa_fallfest.ipynb) |
+| 2 | [QFT & phase estimation](3-algorithms/2-qft_fallfest.ipynb) | 11 | ~13 s | [Colab](https://colab.research.google.com/github/SnehilK3372/qiskit-fall-fest-2026-IIITD/blob/main/qubit-quest/3-algorithms/2-qft_fallfest.ipynb) |
+| 3 | [Shor's algorithm](3-algorithms/3-shors-algorithm_fallfest.ipynb) | 10 | ~3 s | [Colab](https://colab.research.google.com/github/SnehilK3372/qiskit-fall-fest-2026-IIITD/blob/main/qubit-quest/3-algorithms/3-shors-algorithm_fallfest.ipynb) |
+| 4 | [VQE](3-algorithms/4-vqe_fallfest.ipynb) | 12 | ~8 min, **use the simulator** | [Colab](https://colab.research.google.com/github/SnehilK3372/qiskit-fall-fest-2026-IIITD/blob/main/qubit-quest/3-algorithms/4-vqe_fallfest.ipynb) |
 
 **Deutsch-Jozsa** appears in both the Computer science and Algorithms paths. It is the same module with the same grading, so if you have done it once, it counts for either path.
 

@@ -6,7 +6,7 @@ Compute how a molecule's energy changes as its bond stretches, then do it again 
 
 ## Start here
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SnehilK3372/qiskit-fall-fest-2026/blob/main/hackathon/track-1-quantum-chemistry/challenge_1_tutorial.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SnehilK3372/qiskit-fall-fest-2026-IIITD/blob/main/hackathon/track-1-quantum-chemistry/challenge_1_tutorial.ipynb)
 
 [`challenge_1_tutorial.ipynb`](challenge_1_tutorial.ipynb) is a solved example. It computes the ground-state energy of H₂ with VQE, using a Jordan-Wigner mapping and a UCCSD ansatz on a Hartree-Fock state, and checks the result against an exact solver. It runs in a few seconds on a simulator.
 

@@ -57,8 +57,8 @@ Each notebook starts with an install cell. Uncomment it and run it first.
 Use Python 3.10 or newer:
 
 ```bash
-git clone https://github.com/SnehilK3372/qiskit-fall-fest-2026
-cd qiskit-fall-fest-2026
+git clone https://github.com/SnehilK3372/qiskit-fall-fest-2026-IIITD
+cd qiskit-fall-fest-2026-IIITD
 pip install -r requirements.txt
 jupyter lab
 ```

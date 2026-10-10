@@ -16,7 +16,7 @@ Simulating how such a chain evolves gets hard for classical computers as it grow
 
 ## Start here
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SnehilK3372/qiskit-fall-fest-2026/blob/main/hackathon/track-3-quantum-simulation/challenge_3_tutorial.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SnehilK3372/qiskit-fall-fest-2026-IIITD/blob/main/hackathon/track-3-quantum-simulation/challenge_3_tutorial.ipynb)
 
 [`challenge_3_tutorial.ipynb`](challenge_3_tutorial.ipynb) is a solved example. It evolves a 4-spin chain with first-order Trotter steps, tracks the magnetization over time and compares it with the exact answer. It runs in a few seconds.
 
