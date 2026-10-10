@@ -7,7 +7,7 @@ Learn quantum computing at your own pace, solo, with IBM Quantum's **Qiskit in C
 1. Complete **Get Started with Qiskit** ([`0-get-started/`](0-get-started/)).
 2. Pick **one path** and work through its four modules in order. Each path has its own numbered folder.
 3. Pass **at least 70% of the graded exercises** across those five modules by **Thu Oct 15, 11:59 pm IST**.
-4. Run `check_progress()` and send its output through the [Qubit Quest form](TODO_QUBIT_QUEST_FORM_URL).
+4. Run `check_progress()` and send its output through the Qubit Quest form (link will be live on 11 Oct).
 
 | Path | Folder | Modules after Get Started | Graded exercises (incl. Get Started) | Pass at least |
 |---|---|---|---:|---:|

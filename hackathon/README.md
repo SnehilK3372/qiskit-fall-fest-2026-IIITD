@@ -40,7 +40,7 @@ All times are IST.
 
 Only valid submissions are judged and earn certificates. A submission is valid when **all five** of these hold:
 
-1. **On time.** Submitted through the [hackathon submission form](TODO_SUBMISSION_FORM_URL) by **Wed Oct 14, 11:59 pm IST**. The last commit before the deadline is the one judged.
+1. **On time.** Submitted through the hackathon submission form (link will be live on 11 Oct) by **Wed Oct 14, 11:59 pm IST**. The last commit before the deadline is the one judged.
 2. **From a registered team.** 2–4 members, all registered by 12 noon on Oct 9, working on one track.
 3. **A public GitHub repo** that contains:
    - a Jupyter notebook that runs top to bottom and reproduces the results you report;
