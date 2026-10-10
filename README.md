@@ -89,6 +89,6 @@ Everyone taking part agrees to follow the [Qiskit Code of Conduct](https://githu
 
 ## Credits and licences
 
-- **Hackathon tutorials and challenges** are adapted from the [BasQ](https://www.basquequantum.eus/) Qiskit Fall Fest 2026 hackathon. Tutorials are by Benjamin Tirado; the hackathon prompt is by Angel Rodriguez, Benjamin Tirado and Miguel Angel Jimenez. Text is under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), code under [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0). The small fixes we made are listed in each notebook's credits cell.
+- **Hackathon tutorials and challenges** are adapted from the [BasQ](https://www.basquequantum.eus/) Qiskit Fall Fest 2025 hackathon. Tutorials are by Benjamin Tirado; the hackathon prompt is by Angel Rodriguez, Benjamin Tirado and Miguel Angel Jimenez. Text is under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), code under [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0). The small fixes we made are listed in each notebook's credits cell.
 - **Qubit Quest modules** are IBM Quantum Learning's *Qiskit in Classrooms* modules with the Fall Fest grader. Content is under CC BY-SA 4.0, code under Apache 2.0. Four notebooks carry small code fixes, listed in [qubit-quest/README.md](qubit-quest/README.md#changes-from-ibms-version).
 - Everything else in this repo was written by Quantica for this event.
